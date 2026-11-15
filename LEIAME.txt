@@ -1,0 +1,14 @@
+Fênix | Banco de Questões — v1.3 (15/11/2026)  |  Livro 5.9, Ficha: E, G
+
+RAIZ: index.html (o app, cópia neutra) e este LEIAME.txt
+Icon/ ícone oficial do app (512 px) | MD/ manual em Markdown (com prints) | DOC/ manual em PDF
+versoes/ cópias com a versão no nome (app e manuais), só controle interno
+
+NOVIDADES DA v1.3
+- Importação direta de PDF, Word (.docx), Excel (.xlsx/.xls), CSV, HTML, Markdown e texto. Planilha com cabeçalho
+  (Enunciado/Pergunta, Alternativa A a E, Gabarito, Explicação opcional) vira questões prontas. .doc/.ppt/.rtf: salvar como .docx ou PDF.
+- Ícone oficial na aba do navegador, no cabeçalho e na abertura (modelo oficial de splash).
+- Pelo Fênix Core: tela Sobre (com changelog em PDF), manual com PDF, preferências, Compartilhar, backup com lembrete de 7 dias,
+  onde guardar os dados e painel clicável do Início. Data da meta com máscara dd/mm/aaaa.
+Versão de volta: v1.2 (dados compatíveis; a chave de armazenamento não mudou).
+Pendente: modo nuvem, login e sincronia (dependem do seu sinal para ativar o banco e de teste com dois aparelhos).
